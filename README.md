@@ -4,7 +4,7 @@ This skill gives mycroft the ability to tell a knock knock joke
 ## Description
 Here is a sample interaction
 
-User: "Hey Mycroft, tell a knock knock"
+User: "Hey Mycroft, tell me a knock knock"
 
 Mycroft: "knock knock"
 
@@ -19,11 +19,8 @@ Mycroft: "says me, that's who"
 User: rotfl
 
 ## Examples
- - "Knock knock"
  - "Tell me a knock knock joke"
 
 
 ## Credits
 aussieW
-
-
