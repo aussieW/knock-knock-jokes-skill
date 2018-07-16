@@ -1,7 +1,9 @@
 ## Knock Knock Jokes
-This skill gives Mycroft the ability to tell a knock knock joke.
+This skill gives Mycroft the ability to tell a Knock Knock joke.
 
 ## Description
+A skill for telling Knock Knock jokes.
+
 The user requests Mycroft to tell a knock knock joke and then interacts with Mycroft in the delivery of the joke. Mycroft expects the user to reply with certain keywords to allow the interaction to progress smoothly.
 
 Here is a sample interaction
