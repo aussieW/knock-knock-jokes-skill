@@ -56,7 +56,7 @@ class KnockKnockJokes(MycroftSkill):
 
     def stop(self):
         self.stage = 0
-self.joke = None
+        self.joke = None
 
 def create_skill():
     return KnockKnockJokes()
