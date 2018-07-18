@@ -1,9 +1,9 @@
 {
-    “utterance”:    “tell me a knock knock joke”,
-    “intent_type”:    “handle_tell_joke”,
-    “intent”:    {
-        “knock-knock”:    “knock knock”,
-        “joke”:    “joke”
+    "utterance":    "tell me a knock knock joke",
+    “intent_type”:    "handle_tell_joke",
+    "intent":    {
+        "knock-knock":    "knock knock",
+        "joke":    "joke"
     },
-    “expected_response”:    “knock knock”,
+    "expected_dialog":    "knock-knock",
 }
